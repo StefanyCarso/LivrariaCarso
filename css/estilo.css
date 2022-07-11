@@ -1,0 +1,194 @@
+body{
+	background-color:white
+	font-family "Goudy Type", Times, serif;
+
+	}
+
+#container{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	}
+
+#topo-site{
+	width: 960px;
+	height: 200px;
+	float:left;
+	background-color:#fae8e9;
+	}
+	
+#logo{
+	width: 200px;
+	height: 77px;
+	float:left;
+	margin-left: 40px;
+	margin-top: 10px;
+	}
+	
+#Logo2{
+	width: 116px;
+	height: 50px;
+	float:right;
+	margin-right: 50px;
+	margin-top: 10px;
+	margin-left:140px;
+	}
+
+#rede-sociais{
+	width: 200px;
+	height: 20px;
+	float:left;
+	margin-left: 310px;
+	margin-top: 70px;
+	margin-right: 190px;
+	}
+
+.menu_simple{
+	width: 960px;
+	height: 40px;
+	float:left;
+	margin-top: 14px;
+	background-color: #de8787;
+	}
+
+.menu_simple ul{
+	margin:0; 
+	padding:0;
+	float:left;
+	}
+
+.menu_simple ul li{
+	display: inline;
+	}
+
+.menu_simple ul li a {
+	float: left; 
+	text-decoration: none;
+	color: white;
+	padding: 10.5px 11px;
+	margin-left: 100px;
+	background-color: #de8787;
+	}
+
+.menu_simple ul li a:visited{
+	color: white;
+	}
+
+.menu_simple ul li a:hover{
+	color: white;
+	background-color: #d86462;
+	}
+
+#slide{
+	margin-top: 10px;
+	float: left;
+	}
+
+.caixa-conteudo{
+	width: 281px;
+	height: 206px;
+	float: left;
+	margin-left: 17px;
+	padding-left: 17px;
+	margin-top: 40px;
+	}
+.caixa-conteudo h3{
+	color:#d86462;
+	margin-left: 50px
+	}
+
+.caixa-conteudo ul{
+	list-style: none;
+	float:left;
+	color: white;
+	margin-top: -10px;
+	margin-left: 10px;
+	}
+
+.caixa-conteudo ul li{
+	margin-top: 10px;
+	}
+
+.caixa-conteudo li a{
+	text-decoration: none;
+	margin-right: 10px;
+	color: #cc6262;
+	}
+	
+#rodape-site{
+	width: 960px;
+	height: 400px;
+	float: left;
+	background-color:#fae8e9 ;
+	margin-top: 210px;
+	}
+
+#autor-site{
+	width: 960px;
+	height: 120px;
+	background-color: #e98b8f;
+	float: left;
+	text-align: center;
+	padding-top: 10px;
+	color: white;
+}
+
+#corpo{
+	width: 960px;
+	height: 600px;
+	float: left;
+	background-color:#fae8e9 ;
+	margin-top: 20px;
+	
+}
+.caixa-corpo{
+	width: 940px;
+	height: 206px;
+	float: left;
+	margin-left: 17px;
+	padding-left: 17px;
+	margin-top: 40px;
+	
+	}
+.caixa-corpo h3{
+	color:#d86462;
+	margin-left: 50px;
+	}
+
+.caixa-corpo ul{
+	list-style: none;
+	float:left;
+	color: white;
+	margin-top: -10px;
+	margin-left: 10px;
+	}
+
+.caixa-corpo ul li{
+	margin-top: 10px;
+	}
+
+.caixa-corpo li a{
+	text-decoration: none;
+	margin-right: 10px;
+	color: #cc6262;
+	}
+	
+.cadastro{
+	
+	width: 910px;
+	height: 110px;
+	background-color: #e98b8f;
+	float: left;
+	text-align: left;
+	margin-top: 40px;
+	color: white;
+}
+
+.txt-corpo{
+	Color: #e98b8f;
+	text-align: center;
+	margin-top: 10px;
+	
+	
+}
