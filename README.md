@@ -1,2 +1,2 @@
 # LivrariaCarso
-projeto Web simples estatico, utilizando html, css, javascript, orbit.
+projeto Web simples estatico, utilizando html, css, javascript, bootstrap e orbit.
